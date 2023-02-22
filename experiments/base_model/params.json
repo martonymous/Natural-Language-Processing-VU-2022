@@ -1,0 +1,11 @@
+{
+    "learning_rate": 0.1,
+    "batch_size": 6,
+    "num_epochs": 10,
+    "lstm_hidden_dim": 100,
+    "embedding_dim1": 20,
+    "embedding_dim2": 40,
+    "embedding_dim3": 80,
+    "embedding_dim4": 160,
+    "save_summary_steps": 100
+}
